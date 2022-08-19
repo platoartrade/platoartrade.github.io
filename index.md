@@ -9,11 +9,11 @@ title: ArTrade
 
 ArTrade helps you connect with trusted item traders and merchants from our community. We provide the following:
 
-1. [Free Membership](#free-membership)
-2. [Item Trading](#item-trading)
-3. [Scam Insurance](#scam-insurance)
-4. [Plato Items Site](#plato-items-site)
-5. [Trusted Merchants](#trusted-merchants)
+1. [Free Membership](#1-free-membership)
+2. [Item Trading](#2-item-trading)
+3. [Scam Insurance](#3-scam-insurance)
+4. [Plato Items Site](#4-plato-items-site)
+5. [Trusted Merchants](#5-trusted-merchants)
 
 ## 1. Free Membership
 

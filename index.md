@@ -97,7 +97,7 @@ All of our merchants and their stats are listed below. If you wish to become a m
     <tbody>
         <tr>
             <td>Fear</td>
-            <td>0</td>
+            <td>1</td>
         </tr>
         <tr>
             <td>&nbsp;</td>

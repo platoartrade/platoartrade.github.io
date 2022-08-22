@@ -97,19 +97,23 @@ All of our merchants and their stats are listed below. If you wish to become a m
     <tbody>
         <tr>
             <td>Fear</td>
-            <td>1</td>
+            <td>X</td>
         </tr>
         <tr>
-            <td>&nbsp;</td>
-            <td></td>
+            <td>shuweihat</td>
+            <td>X</td>
         </tr>
         <tr>
-            <td>&nbsp;</td>
-            <td></td>
+            <td>ErenYeagger</td>
+            <td>X</td>
         </tr>
         <tr>
-            <td>&nbsp;</td>
-            <td></td>
+            <td>pqmuhammadpq</td>
+            <td>X</td>
+        </tr>
+        <tr>
+            <td>EM1990</td>
+            <td>X</td>
         </tr>
     </tbody>
 </table>

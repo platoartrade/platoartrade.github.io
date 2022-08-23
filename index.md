@@ -116,6 +116,26 @@ All of our merchants and their stats are listed below. If you wish to become a m
             <td>X</td>
         </tr>
         <tr>
+            <td>H13</td>
+            <td>X</td>
+        </tr>        
+        <tr>
+            <td>Britany</td>
+            <td>X</td>
+        </tr>
+        <tr>
+            <td>Huskee</td>
+            <td>X</td>
+        </tr>
+        <tr>
+            <td>BOS</td>
+            <td>X</td>
+        </tr>        
+        <tr>
+            <td>eli</td>
+            <td>X</td>
+        </tr>        
+        <tr>
             <td>babygorI</td>
             <td>X</td>
         </tr>        

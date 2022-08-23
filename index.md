@@ -108,6 +108,10 @@ All of our merchants and their stats are listed below. If you wish to become a m
             <td>X</td>
         </tr>
         <tr>
+            <td>X0T</td>
+            <td>X</td>
+        </tr>        
+        <tr>
             <td>EM1990</td>
             <td>X</td>
         </tr>

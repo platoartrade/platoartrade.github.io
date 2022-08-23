@@ -108,6 +108,14 @@ All of our merchants and their stats are listed below. If you wish to become a m
             <td>X</td>
         </tr>
         <tr>
+            <td>Somebody</td>
+            <td>X</td>
+        </tr>
+        <tr>
+            <td>Phu</td>
+            <td>X</td>
+        </tr>        
+        <tr>
             <td>X0T</td>
             <td>X</td>
         </tr>        

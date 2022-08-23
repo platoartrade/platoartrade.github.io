@@ -64,10 +64,10 @@ Merchants receive an incentive bonus from the requester's end. The bonus for eac
 During a trade, requesters and merchants must follow the trading rules listed below.
 
 - We highly recommend that requesters only trade with our merchants, and not the members.
+- Requesters need to send the full amount (including bonus) before merchants can proceed with their part.
 - Both parties are only allowed to exchange items, and must not involve other currencies.
 - Both parties are advised to take screenshots or screen recordings during a trade.
 - If there's an issue, you must report to the group owners.
-- Requesters need to send the full amount (including bonus) before merchants can proceed with their part.
 
 ## 3. Scam Insurance
 

@@ -120,6 +120,18 @@ All of our merchants and their stats are listed below. If you wish to become a m
             <td>X</td>
         </tr>        
         <tr>
+            <td>LisaaaRose</td>
+            <td>X</td>
+        </tr>
+        <tr>
+            <td>A1i</td>
+            <td>X</td>
+        </tr>
+        <tr>
+            <td>Squirrel</td>
+            <td>X</td>
+        </tr>        
+        <tr>
             <td>Phu</td>
             <td>X</td>
         </tr>        

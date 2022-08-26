@@ -64,7 +64,7 @@ Merchants receive an incentive bonus from the requester's end. The bonus for eac
 Merchants - Group moderators or traders endorsed by ArTrade.
 Requesters - Group members.
 
-During a trade, requesters and merchants must follow the trading rules listed below.
+During a trade, merchants and requesters must follow the trading rules listed below.
 
 - We highly recommend that requesters only trade with our merchants, and not the members.
 - Requesters need to send the full amount (including bonus) before merchants can proceed with their part.

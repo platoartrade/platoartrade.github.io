@@ -101,7 +101,6 @@ All of our merchants and their stats are listed below. If you wish to become a m
     <tbody>
         <tr>
             <td>Fear</td>
-            <td>X</td>
         </tr>
         <tr>
             <td>shuweihat</td>

@@ -115,6 +115,9 @@ All of our merchants and their stats are listed below. If you wish to become a m
         </tr>
         <tr>
             <td>H13</td>
+        </tr>
+        <tr>
+            <td>RBT</td>
         </tr>        
         <tr>
             <td>Britany</td>

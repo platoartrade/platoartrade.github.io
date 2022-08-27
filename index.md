@@ -28,7 +28,7 @@ Once your Plato account is validated, one of our team members will send you an i
 
 **Merchants -** Group moderators or traders endorsed by ArTrade.
 
-**Requesters -** Group members or traders not endorsed by ArTrade
+**Requesters -** Group members or traders not endorsed by ArTrade.
 
 To take part in item trading, request for your desired item/s in the group, and wait for a merchant to accept your trade.
 

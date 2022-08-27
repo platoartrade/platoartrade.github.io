@@ -24,7 +24,11 @@ To receive our services, you need a membership. Follow the steps below to become
 
 Once your Plato account is validated, one of our team members will send you an invite to the Artrade group.
 
-## 2. Item Trading
+## 2. Item trading
+
+**Merchants -** Group moderators or traders endorsed by ArTrade.
+
+**Requesters -** Group members or traders not endorsed by ArTrade
 
 To take part in item trading, request for your desired item/s in the group, and wait for a merchant to accept your trade.
 

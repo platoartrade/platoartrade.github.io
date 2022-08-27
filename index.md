@@ -95,7 +95,6 @@ All of our merchants and their stats are listed below. If you wish to become a m
     <thead>
         <tr>
             <th class="w-50">Plato ID</th>
-            <th class="w-50">Successful Trades</th>
         </tr>
     </thead>
     <tbody>
@@ -104,67 +103,51 @@ All of our merchants and their stats are listed below. If you wish to become a m
         </tr>
         <tr>
             <td>shuweihat</td>
-            <td>X</td>
         </tr>
         <tr>
             <td>ErenYeagger</td>
-            <td>X</td>
         </tr>
         <tr>
             <td>Somebody</td>
-            <td>X</td>
         </tr>
         <tr>
             <td>hmode</td>
-            <td>X</td>
         </tr>
         <tr>
             <td>H13</td>
-            <td>X</td>
         </tr>        
         <tr>
             <td>Britany</td>
-            <td>X</td>
         </tr>
         <tr>
             <td>Huskee</td>
-            <td>X</td>
         </tr>
         <tr>
             <td>BOS</td>
-            <td>X</td>
         </tr>        
         <tr>
             <td>eli</td>
-            <td>X</td>
         </tr>        
         <tr>
             <td>babygorI</td>
-            <td>X</td>
         </tr>        
         <tr>
             <td>LisaaaRose</td>
-            <td>X</td>
         </tr>
         <tr>
             <td>A1i</td>
-            <td>X</td>
         </tr>
         <tr>
             <td>Squirrel</td>
-            <td>X</td>
         </tr>        
         <tr>
             <td>Phu</td>
-            <td>X</td>
         </tr>        
         <tr>
             <td>X0T</td>
-            <td>X</td>
         </tr>        
         <tr>
             <td>EM1990</td>
-            <td>X</td>
         </tr>
     </tbody>
 </table>

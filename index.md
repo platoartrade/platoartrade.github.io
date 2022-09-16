@@ -132,9 +132,6 @@ All of our merchants and their stats are listed below. If you wish to become a m
             <td>Huskee</td>
         </tr>
         <tr>
-            <td>eli</td>
-        </tr>        
-        <tr>
             <td>babygorI</td>
         </tr>        
         <tr>
@@ -146,9 +143,6 @@ All of our merchants and their stats are listed below. If you wish to become a m
         <tr>
             <td>X0T</td>
         </tr>        
-        <tr>
-            <td>EM1990</td>
-        </tr>
     </tbody>
 </table>
 

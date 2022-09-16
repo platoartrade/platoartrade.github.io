@@ -1,13 +1,13 @@
 ---
 layout: content
-title: ArTrade
+title: Artrade
 ---
 
-<h1>ArTrade&nbsp;<img src="https://platoartrade.github.io/docs/assets/images/logo.png" style="padding-bottom:10px;height:40px" /></h1>
+<h1>Artrade&nbsp;<img src="https://platoArtrade.github.io/docs/assets/images/logo.png" style="padding-bottom:10px;height:40px" /></h1>
 
 ## Introduction
 
-ArTrade helps you connect with trusted item traders and merchants from our community. We provide the following:
+Artrade helps you connect with trusted item traders and merchants from our community. We provide the following:
 
 1. [Free Membership](#1-free-membership)
 2. [Item Trading](#2-item-trading)
@@ -17,7 +17,7 @@ ArTrade helps you connect with trusted item traders and merchants from our commu
 
 ## 1. Free Membership
 
-To receive our services, you need a membership. Follow the steps below to become a member of ArTrade.
+To receive our services, you need a membership. Follow the steps below to become a member of Artrade.
 
 - Follow [@arcade.og](https://instagram.com/arcade.og?igshid=YmMyMTA2M2Y=) on Instagram.
 - DM us your Plato ID.
@@ -26,9 +26,9 @@ Once your Plato account is validated, one of our team members will send you an i
 
 ## 2. Item trading
 
-**Merchants -** Group moderators or traders endorsed by ArTrade.
+**Merchants -** Group moderators or traders endorsed by Artrade.
 
-**Requesters -** Group members or traders not endorsed by ArTrade.
+**Requesters -** Group members or traders not endorsed by Artrade.
 
 To take part in item trading, request for your desired item/s in the group, and wait for a merchant to accept your trade.
 
@@ -63,7 +63,7 @@ Merchants receive an incentive bonus from the requester's end. The bonus for eac
     </tbody>
 </table>
 
-### ArTrade Trading Rules
+### Artrade Trading Rules
 
 During a trade, merchants and requesters must follow the trading rules listed below.
 
@@ -75,7 +75,7 @@ During a trade, merchants and requesters must follow the trading rules listed be
 
 ## 3. Scam Insurance
 
-ArTrade provides insurance for any scam related incidents during a trade. You must share screenshots or screen recordings of the incident with one of our group owners. Once the evidence is verified, our insurance account will send you the full amount in items. The rules are listed below.
+Artrade provides insurance for any scam related incidents during a trade. You must share screenshots or screen recordings of the incident with one of our group owners. Once the evidence is verified, our insurance account will send you the full amount in items. The rules are listed below.
 
 - You must be a member of the group to claim the insurance.
 - The insurance only applies when trading with one of our merchants.

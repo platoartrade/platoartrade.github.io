@@ -114,7 +114,7 @@ All of our merchants and their stats are listed below. If you wish to become a m
             <td>BOS ⭐</td>
         </tr>        
         <tr>
-            <td>Fear ⭐</td>
+            <td>Fear</td>
         </tr>
         <tr>
             <td>ErenYeagger</td>

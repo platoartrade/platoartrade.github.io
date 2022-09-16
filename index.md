@@ -99,10 +99,22 @@ All of our merchants and their stats are listed below. If you wish to become a m
     </thead>
     <tbody>
         <tr>
-            <td>Fear</td>
+            <td>shuweihat ⭐</td>
         </tr>
         <tr>
-            <td>shuweihat</td>
+            <td>hmode ⭐</td>
+        </tr>
+        <tr>
+            <td>RBT ⭐</td>
+        </tr>
+        <tr>
+            <td>Phu ⭐</td>
+        </tr>
+        <tr>
+            <td>BOS ⭐</td>
+        </tr>        
+        <tr>
+            <td>Fear ⭐</td>
         </tr>
         <tr>
             <td>ErenYeagger</td>
@@ -111,23 +123,14 @@ All of our merchants and their stats are listed below. If you wish to become a m
             <td>Somebody</td>
         </tr>
         <tr>
-            <td>hmode</td>
-        </tr>
-        <tr>
             <td>H13</td>
         </tr>
-        <tr>
-            <td>RBT</td>
-        </tr>        
         <tr>
             <td>Britany</td>
         </tr>
         <tr>
             <td>Huskee</td>
         </tr>
-        <tr>
-            <td>BOS</td>
-        </tr>        
         <tr>
             <td>eli</td>
         </tr>        
@@ -139,9 +142,6 @@ All of our merchants and their stats are listed below. If you wish to become a m
         </tr>
         <tr>
             <td>Squirrel</td>
-        </tr>        
-        <tr>
-            <td>Phu</td>
         </tr>        
         <tr>
             <td>X0T</td>

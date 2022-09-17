@@ -75,7 +75,7 @@ During a trade, merchants and requesters must follow the trading rules listed be
 
 ## 3. Scam Insurance
 
-Artrade provides insurance for any scam related incidents during a trade. You must share screenshots or screen recordings of the incident with one of our group owners. Once the evidence is verified, our insurance account will send you the full amount in items. The rules are listed below.
+Artrade provides insurance for any scam related incidents during a trade. You must share screenshots or screen recordings of the incident with one of our group owners. Once the evidence is verified, our insurance account will send you the full amount in items. The conditions are listed below.
 
 - You must be a member of the group to claim the insurance.
 - The insurance only applies when trading with one of our merchants.
@@ -89,7 +89,7 @@ The following website contains the entire list of Plato Items (including images 
 
 ## 5. Trusted Merchants
 
-All of our merchants and their stats are listed below. If you wish to become a merchant, contact our group owners.
+All of our merchants are listed below. If you wish to become a merchant, contact our group owners.
 
 <table class="table table-sm table-bordered">
     <thead>

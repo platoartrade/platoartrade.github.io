@@ -115,6 +115,9 @@ All of our merchants are listed below. If you wish to become a merchant, contact
         </tr>
         <tr>
             <td>mishii</td>
+        </tr>
+        <tr>
+            <td>Bingo</td>
         </tr>        
         <tr>
             <td>Fear</td>

@@ -99,7 +99,7 @@ All of our merchants are listed below. If you wish to become a merchant, contact
     </thead>
     <tbody>
         <tr>
-            <td>shuweihat ⭐⭐</td>
+            <td>shuweihat ⭐⭐⭐</td>
         </tr>
         <tr>
             <td>hmode ⭐⭐</td>

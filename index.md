@@ -105,10 +105,10 @@ All of our merchants are listed below. If you wish to become a merchant, contact
             <td>hmode ⭐⭐</td>
         </tr>
         <tr>
-            <td>RBT ⭐</td>
+            <td>RBT ⭐⭐</td>
         </tr>
         <tr>
-            <td>Phu ⭐</td>
+            <td>Phu ⭐⭐</td>
         </tr>
         <tr>
             <td>BOS ⭐</td>

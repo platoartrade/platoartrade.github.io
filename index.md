@@ -49,15 +49,15 @@ Merchants receive an incentive bonus from the requester's end. The bonus for eac
             <td>250 Coins</td>
         </tr>
         <tr>
-            <td>1000 - 3000 Coins</td>
+            <td>1001 - 3000 Coins</td>
             <td>500 Coins</td>
         </tr>
         <tr>
-            <td>3000 - 5000 Coins</td>
+            <td>3001 - 5000 Coins</td>
             <td>750 Coins</td>
         </tr>
         <tr>
-            <td>5000 - 10000 Coins</td>
+            <td>5001 - 10000 Coins</td>
             <td>1000 Coins</td>
         </tr>
     </tbody>

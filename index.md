@@ -129,23 +129,11 @@ All of our merchants are listed below. If you wish to become a merchant, contact
             <td>GAX</td>
         </tr>
         <tr>
-            <td>EPA</td>
-        </tr>        
-        <tr>
-            <td>Somebody</td>
-        </tr>
-        <tr>
             <td>H13</td>
-        </tr>
-        <tr>
-            <td>Britany</td>
         </tr>
         <tr>
             <td>Huskee</td>
         </tr>
-        <tr>
-            <td>babygorI</td>
-        </tr>        
         <tr>
             <td>LisaaaRose</td>
         </tr>

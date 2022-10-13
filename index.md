@@ -99,10 +99,10 @@ All of our merchants are listed below. If you wish to become a merchant, contact
     </thead>
     <tbody>
         <tr>
-            <td>shuweihat ⭐⭐⭐</td>
+            <td>shuweihat ⭐⭐⭐⭐</td>
         </tr>
         <tr>
-            <td>hmode ⭐⭐</td>
+            <td>hmode ⭐⭐⭐</td>
         </tr>
         <tr>
             <td>RBT ⭐⭐</td>
@@ -114,14 +114,17 @@ All of our merchants are listed below. If you wish to become a merchant, contact
             <td>BOS ⭐</td>
         </tr>
         <tr>
+            <td>Fear ⭐</td>
+        </tr>        
+        <tr>
+            <td>_R3AP3R</td>
+        </tr>        
+        <tr>
             <td>mishii</td>
         </tr>
         <tr>
             <td>Bingo</td>
         </tr>        
-        <tr>
-            <td>Fear</td>
-        </tr>
         <tr>
             <td>ErenYeagger</td>
         </tr>

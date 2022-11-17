@@ -94,6 +94,11 @@ All of our merchants are listed below. If you wish to become a merchant, contact
 <table class="table table-sm table-bordered">
     <thead>
         <tr>
+            <th class="w-50">Plato ID</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
             <td>shuweihat ⭐⭐⭐⭐</td>
         </tr>
         <tr>

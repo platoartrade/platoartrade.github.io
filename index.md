@@ -94,21 +94,19 @@ All of our merchants are listed below. If you wish to become a merchant, contact
 <table class="table table-sm table-bordered">
     <thead>
         <tr>
-            <th class="w-50">Plato ID</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
             <td>shuweihat ⭐⭐⭐⭐</td>
         </tr>
         <tr>
-            <td>hmode ⭐⭐⭐</td>
+            <td>hmode ⭐⭐⭐⭐</td>
         </tr>
         <tr>
             <td>RBT ⭐⭐</td>
         </tr>
+       <tr>
+            <td>_R3AP3R ⭐⭐</td>
+        </tr>        
         <tr>
-            <td>Phu ⭐⭐</td>
+            <td>Phu ⭐</td>
         </tr>
         <tr>
             <td>BOS ⭐</td>
@@ -117,43 +115,16 @@ All of our merchants are listed below. If you wish to become a merchant, contact
             <td>Fear ⭐</td>
         </tr>        
         <tr>
-            <td>_R3AP3R</td>
+            <td>mishii ⭐</td>
+        </tr>
+        <tr>
+            <td>F4Y0 ⭐</td>
         </tr>        
         <tr>
-            <td>mishii</td>
+            <td>GAX ⭐</td>
         </tr>
         <tr>
-            <td>x8x</td>
-        </tr>
-        <tr>
-            <td>Leoo00000__</td>
-        </tr>
-        <tr>
-            <td>F4Y0</td>
-        </tr>        
-        <tr>
-            <td>Bingo</td>
-        </tr>        
-        <tr>
-            <td>ErenYeagger</td>
-        </tr>
-        <tr>
-            <td>GAX</td>
-        </tr>
-        <tr>
-            <td>H13</td>
-        </tr>
-        <tr>
-            <td>Huskee</td>
-        </tr>
-        <tr>
-            <td>LisaaaRose</td>
-        </tr>
-        <tr>
-            <td>Squirrel</td>
-        </tr>        
-        <tr>
-            <td>X0T</td>
+            <td>3mm</td>
         </tr>        
     </tbody>
 </table>

@@ -109,6 +109,9 @@ All of our merchants are listed below. If you wish to become a merchant, contact
         </tr>
        <tr>
             <td>_R3AP3R ⭐⭐</td>
+        </tr>
+        <tr>
+            <td>3mm ⭐⭐</td>
         </tr>        
         <tr>
             <td>Phu ⭐</td>
@@ -128,9 +131,6 @@ All of our merchants are listed below. If you wish to become a merchant, contact
         <tr>
             <td>GAX ⭐</td>
         </tr>
-        <tr>
-            <td>3mm</td>
-        </tr>        
     </tbody>
 </table>
 

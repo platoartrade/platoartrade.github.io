@@ -126,11 +126,11 @@ All of our merchants are listed below. If you wish to become a merchant, contact
             <td>mishii ⭐</td>
         </tr>
         <tr>
-            <td>F4Y0 ⭐</td>
-        </tr>        
-        <tr>
             <td>GAX ⭐</td>
         </tr>
+        <tr>
+            <td>Zack__243</td>
+        </tr>        
     </tbody>
 </table>
 

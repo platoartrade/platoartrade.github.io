@@ -69,7 +69,7 @@ During a trade, merchants and requesters must follow the trading rules listed be
 
 - We highly recommend that requesters only trade with our merchants, and not the members.
 - Requesters need to send the full amount (including bonus) before merchants can proceed with their part.
-- Both parties are only allowed to exchange items, and must not involve other currencies.
+- Both parties are only allowed to exchange items, and must not involve any other types of exchanges.
 - Both parties are advised to take screenshots or screen recordings during a trade.
 - If there's an issue, you must report to the group owners.
 
@@ -79,7 +79,7 @@ Artrade provides insurance for any scam related incidents during a trade. You mu
 
 - You must be a member of the group to claim the insurance.
 - The insurance only applies when trading with one of our merchants.
-- The insurance does not cover trade value exceeding 10000 coins.
+- The insurance does not cover trade value exceeding 10,000 coins.
 
 ## 4. Plato Items Site
 

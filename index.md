@@ -133,6 +133,9 @@ All of our merchants are listed below. If you wish to become a merchant, contact
         </tr>
         <tr>
             <td>SoyJuancho</td>
+        </tr>
+        <tr>
+            <td>QMYDS</td>
         </tr>        
     </tbody>
 </table>

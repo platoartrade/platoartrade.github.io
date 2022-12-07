@@ -136,6 +136,9 @@ All of our merchants are listed below. If you wish to become a merchant, contact
         </tr>
         <tr>
             <td>QMYDS</td>
+        </tr>
+        <tr>
+            <td>89sVault</td>
         </tr>        
     </tbody>
 </table>

@@ -112,6 +112,9 @@ All of our merchants are listed below. If you wish to become a merchant, contact
         </tr>
         <tr>
             <td>3mm ⭐⭐</td>
+        </tr>
+        <tr>
+            <td>89sVault ⭐⭐</td>
         </tr>        
         <tr>
             <td>Phu ⭐</td>
@@ -129,16 +132,13 @@ All of our merchants are listed below. If you wish to become a merchant, contact
             <td>GAX ⭐</td>
         </tr>
         <tr>
-            <td>Zack__243</td>
+            <td>Zack__243 ⭐</td>
         </tr>
         <tr>
-            <td>SoyJuancho</td>
+            <td>SoyJuancho ⭐</td>
         </tr>
         <tr>
-            <td>QMYDS</td>
-        </tr>
-        <tr>
-            <td>89sVault</td>
+            <td>QMYDS ⭐</td>
         </tr>        
     </tbody>
 </table>

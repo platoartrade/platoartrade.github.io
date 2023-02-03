@@ -126,7 +126,7 @@ All of our merchants are listed below. If you wish to become a merchant, contact
             <td>mishii ⭐</td>
         </tr>
         <tr>
-            <td>QMYDS ⭐</td>
+            <td>d4mqmyd ⭐</td>
         </tr>
         <tr>
             <td>saturnoff ⭐</td>

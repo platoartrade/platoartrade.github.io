@@ -39,8 +39,10 @@ Merchants receive an incentive bonus from the requester's end. If the trade valu
 <table class="table table-sm table-bordered">
     <thead>
         <tr>
-            <th class="w-50">Trade Value (Coins)</th>
-            <th class="w-50">Incentive Bonus (Coins)</th>
+            <th class="w-50">Trade Value 
+                (Coins)</th>
+            <th class="w-50">Incentive Bonus 
+                (Coins)</th>
         </tr>
     </thead>
     <tbody>

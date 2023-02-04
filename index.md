@@ -34,7 +34,7 @@ To take part in item trading, request for your desired item/s in the group, and 
 
 ### Incentive Bonus
 
-Merchants receive an incentive bonus from the requester's end. If the trade value exceeds 10,000 coins, there will be a separate incentive bonus. For example, if the trade value is 12,000 coins, the merchants will receive an extra bonus of 500 coins for the additional 2,000 coins according to our incentive bonus table. The bonus for each trade value is listed below.
+Merchants receive an incentive bonus from the requester's end. If the trade value exceeds 10,000, there will be a separate incentive bonus. For example, if the trade value is 12,000, the merchants will receive an extra bonus of 500 for the additional 2,000 according to our incentive bonus table. The bonus for each trade value is listed below.
 
 <table class="table table-sm table-bordered">
     <thead>
@@ -45,28 +45,28 @@ Merchants receive an incentive bonus from the requester's end. If the trade valu
     </thead>
     <tbody>
         <tr>
-            <td>1 - 999</td>
-            <td>250 coins</td>
+            <td>1-999 Coins</td>
+            <td>250 Coins</td>
         </tr>
         <tr>
-            <td>1000 - 2999</td>
-            <td>500 coins</td>
+            <td>1000-2999 Coins</td>
+            <td>500 Coins</td>
         </tr>
         <tr>
-            <td>3000 - 4999</td>
-            <td>750 coins</td>
+            <td>3000-4999 Coins</td>
+            <td>750 Coins</td>
         </tr>
         <tr>
-            <td>5000 - 6999</td>
-            <td>1000 coins</td>
+            <td>5000-6999 Coins</td>
+            <td>1000 Coins</td>
         </tr>
         <tr>
-            <td>7000 - 8999</td>
-            <td>1250 coins</td>
+            <td>7000-8999 Coins</td>
+            <td>1250 Coins</td>
         </tr>
         <tr>
-            <td>9000 - 10000</td>
-            <td>1500 coins</td>
+            <td>9000-10000 Coins</td>
+            <td>1500 Coins</td>
         </tr>        
     </tbody>
 </table>

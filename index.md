@@ -130,6 +130,9 @@ All of our merchants are listed below. If you wish to become a merchant, contact
         </tr>
         <tr>
             <td>saturnoff ⭐</td>
+        </tr>
+        <tr>
+            <td>IamWaffle123</td>
         </tr>        
     </tbody>
 </table>

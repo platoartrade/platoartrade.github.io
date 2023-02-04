@@ -39,34 +39,34 @@ Merchants receive an incentive bonus from the requester's end. If the trade valu
 <table class="table table-sm table-bordered">
     <thead>
         <tr>
-            <th class="w-50">Trade Value</th>
-            <th class="w-50">Incentive Bonus</th>
+            <th class="w-50">Trade Value (Coins)</th>
+            <th class="w-50">Incentive Bonus (Coins)</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <td>1 - 999 Coins</td>
-            <td>250 Coins</td>
+            <td>1 - 999</td>
+            <td>250</td>
         </tr>
         <tr>
-            <td>1000 - 2999 Coins</td>
-            <td>500 Coins</td>
+            <td>1000 - 2999</td>
+            <td>500</td>
         </tr>
         <tr>
-            <td>3000 - 4999 Coins</td>
-            <td>750 Coins</td>
+            <td>3000 - 4999</td>
+            <td>750</td>
         </tr>
         <tr>
-            <td>5000 - 6999 Coins</td>
-            <td>1000 Coins</td>
+            <td>5000 - 6999</td>
+            <td>1000</td>
         </tr>
         <tr>
-            <td>7000 - 8999 Coins</td>
-            <td>1250 Coins</td>
+            <td>7000 - 8999</td>
+            <td>1250</td>
         </tr>
         <tr>
-            <td>9000 - 9999 Coins</td>
-            <td>1500 Coins</td>
+            <td>9000 - 10000</td>
+            <td>1500</td>
         </tr>        
     </tbody>
 </table>

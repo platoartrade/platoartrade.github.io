@@ -45,27 +45,27 @@ Merchants receive an incentive bonus from the requester's end. If the trade valu
     </thead>
     <tbody>
         <tr>
-            <td>1-999 Coins</td>
+            <td>1 - 999 Coins</td>
             <td>250 Coins</td>
         </tr>
         <tr>
-            <td>1000-2999 Coins</td>
+            <td>1000 - 2999 Coins</td>
             <td>500 Coins</td>
         </tr>
         <tr>
-            <td>3000-4999 Coins</td>
+            <td>3000 - 4999 Coins</td>
             <td>750 Coins</td>
         </tr>
         <tr>
-            <td>5000-6999 Coins</td>
+            <td>5000 - 6999 Coins</td>
             <td>1000 Coins</td>
         </tr>
         <tr>
-            <td>7000-8999 Coins</td>
+            <td>7000 - 8999 Coins</td>
             <td>1250 Coins</td>
         </tr>
         <tr>
-            <td>9000-10000 Coins</td>
+            <td>9000 - 10000 Coins</td>
             <td>1500 Coins</td>
         </tr>        
     </tbody>

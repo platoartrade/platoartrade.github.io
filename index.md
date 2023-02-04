@@ -34,15 +34,13 @@ To take part in item trading, request for your desired item/s in the group, and 
 
 ### Incentive Bonus
 
-Merchants receive an incentive bonus from the requester's end. If the trade value exceeds 10,000, there will be a separate incentive bonus. For example, if the trade value is 12,000, the merchants will receive an extra bonus of 500 for the additional 2,000 according to our incentive bonus table. The bonus for each trade value is listed below.
+Merchants receive an incentive bonus from the requester's end. If the trade value exceeds 10,000 coins, there will be a separate incentive bonus. For example, if the trade value is 12,000 coins, the merchants will receive an extra bonus of 500 coins for the additional 2,000 coins according to our incentive bonus table. The bonus for each trade value is listed below.
 
 <table class="table table-sm table-bordered">
     <thead>
         <tr>
-            <th class="w-50">Trade Value 
-                (Coins)</th>
-            <th class="w-50">Incentive Bonus 
-                (Coins)</th>
+            <th class="w-50">Trade Value</th>
+            <th class="w-50">Incentive Bonus</th>
         </tr>
     </thead>
     <tbody>
